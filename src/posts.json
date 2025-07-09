@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "My First Blog",
+    "body": "This is my first ever blog post.",
+    "author": "Pratham"
+  },
+  {
+    "id": 2,
+    "title": "My Location",
+    "body": "I am from India. It gets super hot in the summers, but the food is totally worth it.",
+    "author": "Pratham"
+  },
+  {
+    "id": 3,
+    "title": "College Life",
+    "body": "I am a student of Chemical Engineering at IIT Kharagpur. The campus is huge and sometimes I get lost (literally).",
+    "author": "Pratham"
+  },
+  {
+    "id": 4,
+    "title": "React is Weird",
+    "body": "At first, React looked like alien code. But after a few tutorials, it started making sense. Still, I forget to close my tags sometimes.",
+    "author": "Manav"
+  },
+  {
+    "id": 5,
+    "title": "Late Night Coding",
+    "body": "Why do bugs only show up at 2am? Also, why do I only feel like coding at 2am?",
+    "author": "Khushank"
+  },
+  {
+    "id": 6,
+    "title": "Tea or Coffee?",
+    "body": "I like tea. But sometimes, coffee is the only way to survive morning classes.",
+    "author": "Kartik"
+  },
+  {
+    "id": 7,
+    "title": "Random Thoughts",
+    "body": "Why do we park on driveways and drive on parkways? If you know, let me know.",
+    "author": "Krishna"
+  },
+  {
+    "id": 8,
+    "title": "Favorite Movie",
+    "body": "I can watch Interstellar a hundred times and still not get bored. The soundtrack is epic.",
+    "author": "Anshuman"
+  },
+  {
+    "id": 9,
+    "title": "Coding Playlist",
+    "body": "Lo-fi beats are my go-to for coding. Sometimes I just vibe and forget to code.",
+    "author": "Manav"
+  },
+  {
+    "id": 10,
+    "title": "Future Plans",
+    "body": "No idea what the future holds, but I hope it involves less debugging and more pizza.",
+    "author": "Kartik"
+  }
+] 
